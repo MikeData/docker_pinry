@@ -1,5 +1,7 @@
 # docker_pinry
-Learning only. Trying pinry via docker ubuntu
+This is just a leanring exercies for me. Trying pinry via docker ubuntu.
+
+I would advise againt cloning and using.
 
 
 ## usage
